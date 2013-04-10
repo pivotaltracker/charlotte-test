@@ -1,4 +1,3 @@
-eek!
 wibble!
 fish!
 Yeah

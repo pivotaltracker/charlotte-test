@@ -1,4 +1,3 @@
-change
 foo bar
 foo
 foo
